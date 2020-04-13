@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html language="ko">
+ <head>
+  <meta charset="utf-8">
+  <title>HW4</title>
+  <link rel="icon" type=image/png" href="RW.png">
+  <title>Font awesome example</title>
+  <script src="https://kit.fontawesome.com/b4d9b78d6b.js"
+  crossorigin="anonymous"></script>
+ </head>
+ <body>             
+   <i class="fas fa-head-side-mask fa-7x"></i>         
+   <br>                                 
+   <h1><b>I'm Taewon Kim</b></h1>
+ </body>
+</html>
