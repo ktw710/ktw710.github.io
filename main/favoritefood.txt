@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html language="ko">
+<head>
+  <meta charset="utf-8">
+ 	<link rel="icon" type=image/png" href="image_ff/logo.png">
+	<link rel="stylesheet" href="css_ff/together.css">
+ 	 <script src="https://kit.fontawesome.com/b4d9b78d6b.js"> </script>
+</head>
+  
+<body>
+  	  <header>
+       <nav>
+	<a style="font-size:80%;" href ="mainHTML.html" title="main">Home</a>
+     	<a style="font-size:80%;" href = "#ME">Favorite snack</a>
+	<a style="font-size:80%;" href = "timetable.html">Time Table</a>
+	<a style="font-size:80%;" href = "journal.html">Journal</a>
+       </nav>
+    	<h1>Taewon Kim(김태원)</h1>
+	  </header>
+  
+	<section>
+	<h2>&nbsp;Favorite Snack</h2>
+  <table border = "1">
+    <tr> <th colspan="5"><b>Favorite Snack</b></th> </tr>
+    <tr> <td style="text-align:center;"><b>종류</b></td> <td style="text-align:center;"><b>사진</b></td><td style="text-align:center;"><b>이름</b></td> <td style="text-align:center;"><b>가격</b></td> <td style="text-align:center;"><b>파는 곳</b></td> </tr>
+    <tr> <td style="text-align:center;" rowspan="3"><b>과자</b></td><td><img src="image_ff/reeses.png"   width="50" ></td> <td>Reese's, Peanut Butter Dipped Pretzels</td> <td>$3.24</td> <td>WallMart</td> </tr>
+    <tr> <td><img src="image_ff/nutter.png"    width="50"></td><td>Nutter Butter Peanut Butter Sandwich Cookies</td> <td>$3.18</td> <td>WallMart</td> </tr>
+    <tr><td><img src="image_ff/mushroom.png"   width="50"></td> <td>Shiitake Mushroom Crisps</td> <td>$11.43</td> <td>Amazon</td> </tr>
+    <tr> <td style="text-align:center;" rowspan="2"><b>음료</b></td> <td><img src="image_ff/lemonsoda.png"    width="50"></td><td>Campari Group Lemon Soda </td> <td>£2.15</td> <td>Amazon</td> </tr>
+    <tr> <td><img src="image_ff/melonfanta.png"   width="50"></td><td>Fanta, Melon Soda Flavor</td> <td>¥378</td> <td>Rakuten</td> </tr>
+  </table>
+	</section>
+  
+   <p>기부를 원하는 분은 아래 이메일로 연락주시면 감사하겠습니다 :)</p>
+  
+    <footer>
+        <h4>Contact Information</h4>
+          <ui>
+             <li><i class="fas fa-phone-square"></i>&nbsp+821066176371</li>
+             <li><i class="fas fa-envelope-square">&nbsp </i>001002k@gmail.com</li>            
+             <li><i class="fas fa-map-marker-alt"></i>&nbsp21, Bangbae-ro 43-gil, Seocho-gu,
+               Seoul, Republic of Korea</li>
+             <p style="color:dimgray; font-size:80%;">&nbsp;2020 by Taewon Kim</p>
+         </ui>
+	  </footer>
+</body>
+</html>
