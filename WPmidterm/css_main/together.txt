@@ -1,0 +1,28 @@
+section{
+  width:100%;
+  height:30%;
+}
+h1{
+  color:white;
+}
+header{
+  background:#666666;
+  text-align:center;
+}
+nav{
+  font-size:150%;
+  font-family:Arial;
+}
+a{
+  
+}
+h2{
+  color:#666666;
+  background:#fff66c;
+}
+ul{
+  
+}
+footer{
+ // background:#666666;
+}
